@@ -18,7 +18,7 @@ temporary files, environment folders).
 1.  **Clone the repository:**
     ```bash
     git clone 
-[https://github.com/camdenlehr/medical-insurance-cost-analysis-.git](https://github.com/camdenlehr/medical-insurance-cost-analysis-.git)
+[https://github.com/camdenlehr/medical-insurance-cost-analysis.git](https://github.com/camdenlehr/medical-insurance-cost-analysis.git)
     cd medical-insurance-cost-analysis-
     ```
 2.  **Create and activate a virtual environment (recommended):**
@@ -34,7 +34,7 @@ temporary files, environment folders).
     ```bash
     jupyter notebook
     ```
-5.  Open `Medical_Insurance_Cost (1).ipynb` in your browser.
+5.  Open `Medical_Insurance_Cost.ipynb` in your browser.
 
 ## Data Source
 The project uses a synthetic dataset of medical insurance costs, including 
